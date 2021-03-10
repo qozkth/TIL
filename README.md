@@ -1,3 +1,3 @@
 # TIL
-Today I learned
-consistency!!
+Today I learned <br>
+keep it consistent with CODE.
