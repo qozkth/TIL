@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+.fullScreen {
+  background-color: salmon;
+}
+.middleScreen {
+  background-color: aqua;
+}
+
+.smallScreen {
+  background-color: bisque;
+}
